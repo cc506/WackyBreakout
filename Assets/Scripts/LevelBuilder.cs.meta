@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8a54d7ec4a91cf4a8bfbfd1b2868476
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PaddlePrefab: {fileID: 8222536552681013997, guid: 865dbb02bb5750b47a16c2c06d71790c,
+      type: 3}
+  - StandardBlockPrefab: {fileID: 2053627045771606160, guid: 72e162133b426d44892981dd02f77b37,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallImpulseForce,BallLifeTime,MinSeconds,MaxSeconds,StandardBlock
+20,300,10,5,10,10
